@@ -1,6 +1,8 @@
 {
-  "name": "Guliston & Floria — Onlayn Gul Do'koni va Buket Konstruktori",
-  "description": "Toshkent bo'ylab yangi gullar, eksklyuziv guldastalar, interaktiv buket konstruktori, tezkor yetkazib berish kalkulyatori va elektron hamyonlar (Payme, Click, Uzum) orqali xavfsiz to'lov.",
+  "name": "Uychi Gullari — Onlayn Gul Do'koni va Buket Konstruktori",
+  "description": "Uychi tumani, Namangan va butun vodiy bo'ylab yangi gullar, eksklyuziv guldastalar, skidkalar, bepul bonuslar va elektron hamyonlar orqali xavfsiz to'lov.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
